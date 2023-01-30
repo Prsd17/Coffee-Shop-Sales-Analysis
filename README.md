@@ -7,16 +7,16 @@ The objective of this project is to analyse the Coffee shop online business for 
 * Top-selling products per day?
 * Coffee sales per year? etc.
 
-### About Datasets:
+### About Datasets
 The dataset belongs to the "Coffee Shop" located in the United Kingdom.
 The Coffeeshop dataset contains the transaction details for customers who ordered different items from Coffee Shop between 2020 and 2021. Moreover, the Itemsandprice dataset contains the price for each item.
 
-### Programming Language and Tool:
+### Programming Language and Tool
 * SQL
 * Power BI
 
-### Sample Outputs:
-#### Weekdays/Weekends Customer Count?
+### Sample Outputs
+#### Weekdays/Weekends Customer Count?:
 
   ![ss](https://user-images.githubusercontent.com/93597510/215139471-ee6d9726-6a07-4e81-b6eb-1863c33f9af9.png)
   
