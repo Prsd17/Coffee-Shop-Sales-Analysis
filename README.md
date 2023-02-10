@@ -20,6 +20,6 @@ The Coffeeshop dataset contains the transaction details for customers who ordere
 
   ![ss](https://user-images.githubusercontent.com/93597510/215139471-ee6d9726-6a07-4e81-b6eb-1863c33f9af9.png)
   
-### Final Dashboard
+### Dashboard
 
   ![dash ss](https://user-images.githubusercontent.com/93597510/215140776-4e73a895-e7dd-45fc-91ae-d2edc7e3154c.png)
