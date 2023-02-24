@@ -1,11 +1,11 @@
 # Coffee-Shop-Sales-Analysis
-### Introduction
-The objective of this project is to analyse the Coffee shop online business for the past two years. Sales analysis is an important aspect of running a successful business. Through sales analytics, you can decide which products to focus on, where to sell and how to reach customers using sales data.
-#### Here are some questions the store is trying to find out:
-* Total product sold per year?
-* Weekdays/Weekends customer count?
-* Top-selling products per day?
-* Coffee sales per year? etc.
+### Problem Statement
+The aim of this project is to analyze the performance of the coffee shop's online business over the past two years with the goal of increasing its customer base online. 
+#### Data Analysis Using SQL 
+* Show total revenue in year 2020
+* Show Weekdays/Weekends customer count
+* Show Top-selling products per day
+* Show coffee sales per year etc.
 
 ### About Datasets
 The dataset belongs to the "Coffee Shop" located in the United Kingdom.
