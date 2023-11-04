@@ -1,15 +1,15 @@
-# Coffee-Shop-Sales-Analysis
+# Cafe-Sales-and-Customer-Analysis
 ### Problem Statement
-The aim of this project is to analyze the performance of the coffee shop's online business over the past two years with the goal of increasing its customer base online. 
+The aim of this project is to analyze the performance of the cafe s online business over the past two years with the goal of increasing its customer base online. 
 #### Data Analysis Using SQL 
-* Show total revenue in year 2020
-* Show Weekdays/Weekends customer count
+* Show total revenue in the year 2020
+* Show Weekdays/Weekends, customer count
 * Show Top-selling products per day
-* Show coffee sales per year etc.
+* Show cafe sales per year etc.
 
 ### About Datasets
-The dataset belongs to the "Coffee Shop" located in the United Kingdom.
-The Coffeeshop dataset contains the transaction details for customers who ordered different items from Coffee Shop between 2020 and 2021. Moreover, the Itemsandprice dataset contains the price for each item.
+The dataset belongs to the "Cafe" located in the United Kingdom.
+The Cafe dataset contains the transaction details for customers who ordered different items from Cafe between 2020 and 2021. Moreover, the Itemsandprice dataset contains the price for each item.
 
 ### Programming Language and Tool
 * SQL
